@@ -1,0 +1,20 @@
+/* Styles go here */
+
+.result {
+  margin:5px;
+  display:inline-block;
+}
+
+.result:hover {
+   background:#DDD;
+}
+
+.result a {
+  color:magenta;
+  text-decoration:none;
+}
+
+.result a:hover {
+  color:purple;
+  text-decoration:underline;
+}
